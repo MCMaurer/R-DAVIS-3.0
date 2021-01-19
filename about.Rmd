@@ -1,0 +1,45 @@
+---
+title: "About Data Carpentry"
+---
+<p></p>
+
+This course content integrates and builds on Data Carpentry Ecology lessons, and is taught as part of the curriculum for students in the Graduate Group in Ecology (GGE) at the University of California, Davis, USA.
+
+Funding for this course is provided by the GGE, and the 2019 course faculty sponsor is Andrew Latimer. Additional swag (stickers and handouts) are provided by Github Education/Classroom folks and the Data Science Initiative provided classroom space. Advice from Ethan White (University of Florida), Jenny Bryan (University of British Columbia), and Tracy Teal (The Carpentries) was also helpful in guiding the course implementation.
+
+
+<p></p>
+
+<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
+![](./img/DC-logo-vision.png)
+</div>
+
+<p></p>
+
+Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research. Our mission is to provide researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. Data Carpentry is a sibling organization of Software Carpentry. Where Software Carpentry teaches best practices in software development, our focus is on the introductory computational skills needed for data management and analysis in all domains of research. Our lessons are domain specific, from life and physical sciences to social science and build on the existing knowledge of learners to enable them to quickly apply skills learned to their own research. Our initial target audience is learners who have little to no prior computational experience. We create a friendly environment for learning to empower researchers and enable data driven discovery.
+
+See the Data Carpentry [website](http://www.datacarpentry.org/) for more information.
+
+<br>
+
+## Instructors 
+
+**Michael Culshaw-Maurer** 
+
+<i class="fa fa-envelope-square" aria-hidden="true"></i> [email](mailto:mjculshawmaurer@ucdavis.edu)  
+[<i class="fa fa-globe" aria-hidden="true"></i> website](https://mcmaurer.github.io/)  
+[<i class="fa fa-twitter-square" aria-hidden="true"></i> \@MCulshawMaurer](https://twitter.com/MCulshawMaurer)  
+[<i class="fa fa-github-square" aria-hidden="true"></i> MCMaurer](https://github.com/mcmaurer)  
+
+<br>
+
+**Martha Wohlfeil** 
+
+<i class="fa fa-envelope-square" aria-hidden="true"></i> [email](mailto:mwohlfeil@ucdavis.edu)  
+[<i class="fa fa-globe" aria-hidden="true"></i> website](https://marthawohlfeil.github.io/)  
+[<i class="fa fa-github-square" aria-hidden="true"></i> MarthaWohlfeil](https://github.com/MarthaWohlfeil)   
+
+ 
+
+
+
